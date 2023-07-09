@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/md-jakir-hossain-1398741b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-jakir-hossain-1398741b2/" height="30" width="40" /></a>
 <a href="https://fb.com/md.jakirhasan.9279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.jakirhasan.9279" height="30" width="40" /></a>
 <a href="https://instagram.com/md.jakirhasan.9279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.jakirhasan.9279" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mdjakirhossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdjakirhossain/" height="30" width="40" /></a>
+<a href="https://leetcode.com/MdJakirHossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdjakirhossain/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

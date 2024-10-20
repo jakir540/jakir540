@@ -33,6 +33,12 @@
 </p>
 
 <!-- About Me -->
+<h3 align="center">👨‍💻 About Me</h3>
+<p align="start"> 
+  I am a MERN stack web developer with a passion for creating dynamic and responsive web applications. I completed my graduation with a BSc in Computer Science and Engineering from Atish Dipankar University of Science and Technology. <br>
+  My goal is to become a DevOps engineer in the future, where I can bridge the gap between development and operations to deliver high-quality software efficiently. I am always eager to learn new technologies and improve my skills.
+</p>
+
 <p align="start"> 
   👨‍💻 All of my projects are available at <a href="https://jakir-hossain-md.netlify.app/">My Portfolio</a><br>
   💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Redux, NextJs, Node, MongoDB, Express**<br>

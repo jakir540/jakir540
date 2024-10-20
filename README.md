@@ -14,7 +14,7 @@
 </p>
 
 <!-- Social Media Badges -->
-<p align="center">
+<p align="start">
   <a href="https://twitter.com/mdjakir7400" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mdjakir7400?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>

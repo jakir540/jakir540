@@ -37,8 +37,6 @@
 ![NextAuth](https://img.shields.io/badge/-NextAuth-black?logo=auth0&style=social)&nbsp;&nbsp;
 
 
-
-
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;

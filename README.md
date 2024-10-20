@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdjakir7400" target="blank"><img src="https://img.shields.io/twitter/follow/mdjakir7400?logo=twitter&style=for-the-badge" alt="mdjakir7400" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://jakir-hossain-md.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jakir-hossain-md.netlify.app/])
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind, Javascript, React,Redux,NextJs, Node, MongoDB, Express**
 

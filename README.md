@@ -42,7 +42,7 @@
 <p align="start"> 
   👨‍💻 All of my projects are available at <a href="https://jakir-hossain-md.netlify.app/">My Portfolio</a><br>
   💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Redux, NextJs, Node, MongoDB, Express**<br>
-  📫 Reach me at **jakirhossainmd540@gmail.com**<br>
+  📫 Reach me at <a href="mailto:jakirhossainmd540@gmail.com">jakirhossainmd540@gmail.com</a><br>
   📄 Check my experiences <a href="https://drive.google.com/file/d/1LmH4xWUHbw708xgyrMjA3R0Dbzx64B86/view?usp=sharing" target="_blank">Resume</a><br>
   ⚡ Fun fact: **"I speak 3 languages—2 human, 1 code (JavaScript)."**
 </p>

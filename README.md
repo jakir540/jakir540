@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://jakir-hossain-md.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind, Javascript, React, Node, MongoDB, Express**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind, Javascript, React,Redux,NextJs, Node, MongoDB, Express**
 
 - 📫 How to reach me **jakirhossainmd540@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LmH4xWUHbw708xgyrMjA3R0Dbzx64B86/view?usp=sharing](https://drive.google.com/file/d/1LmH4xWUHbw708xgyrMjA3R0Dbzx64B86/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am interest person**
+- ⚡ Fun fact **“I speak 3 languages— 2 human, 1 code (JavaScript).”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

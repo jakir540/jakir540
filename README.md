@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Jakir Hossain</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
+<!-- Banner section -->
+<p align="center">
+  <img src="[https://your-banner-image-url-here](https://i.ibb.co.com/48fgSzy/banner-Github.jpg)" alt="Banner" style="width:100%; height:auto;">
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakir540" alt="jakir540" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mdjakir7400" target="blank"><img src="https://img.shields.io/twitter/follow/mdjakir7400?logo=twitter&style=for-the-badge" alt="mdjakir7400" /></a> </p>
@@ -36,7 +41,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![NextAuth](https://img.shields.io/badge/-NextAuth-black?logo=auth0&style=social)&nbsp;&nbsp;
 
-
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
@@ -46,9 +50,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)&nbsp;&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?logo=adobe-photoshop&style=social)&nbsp;&nbsp;
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakir540&show_icons=true&locale=en&layout=compact" alt="jakir540" /></p>
 

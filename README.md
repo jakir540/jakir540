@@ -3,7 +3,7 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co.com/48fgSzy/banner-Github.jpg" alt="Banner" style="width:90%; height:auto; border-radius:10px;">
+  <img src="https://i.ibb.co.com/48fgSzy/banner-Github.jpg" alt="Banner" style="max-width: 100%; height: auto; border-radius: 10px;">
 </p>
 
 <!-- Profile Trophy -->

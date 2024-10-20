@@ -3,7 +3,7 @@
 
 <!-- Banner section -->
 <p align="center">
-  <img src="[https://your-banner-image-url-here](https://i.ibb.co.com/48fgSzy/banner-Github.jpg)" alt="Banner" style="width:100%; height:auto;">
+  <img src="https://i.ibb.co.com/48fgSzy/banner-Github.jpg" alt="Banner" style="width:100%; height:auto;">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakir540" alt="jakir540" /></a> </p>

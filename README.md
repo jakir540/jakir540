@@ -14,7 +14,7 @@
 </p>
 
 <!-- Social Media Badges -->
-<p align="start">
+<p align="center">
   <a href="https://twitter.com/mdjakir7400" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mdjakir7400?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
@@ -33,7 +33,7 @@
 </p>
 
 <!-- About Me -->
-<p align="center"> 
+<p align="start"> 
   👨‍💻 All of my projects are available at <a href="https://jakir-hossain-md.netlify.app/">My Portfolio</a><br>
   💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Redux, NextJs, Node, MongoDB, Express**<br>
   📫 Reach me at **jakirhossainmd540@gmail.com**<br>
